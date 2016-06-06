@@ -20,7 +20,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- * Esta es la clase donde se describen los departamentos.
+ * Esta es la clase donde se describen los departamentos. y Probamos el Git
  * @author Angel A. Díaz Piña
  */
 @Entity
