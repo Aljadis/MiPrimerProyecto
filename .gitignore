@@ -1,0 +1,4 @@
+*.MF
+*.class
+/build/
+/nbproject/private/
